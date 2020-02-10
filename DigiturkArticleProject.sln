@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigiturkArticleProject.API", "DigiturkArticleProject.API\DigiturkArticleProject.API.csproj", "{E2BF6474-44AB-4647-B1ED-451624363557}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigiturkArticleProject.Data.Context", "DigiturkArticleProject.Data.Context\DigiturkArticleProject.Data.Context.csproj", "{7B8B947E-B6BA-40FF-8855-3E1CEA87E72F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigiturkArticleProject.Data.Model", "DigiturkArticleProject.Data.Model\DigiturkArticleProject.Data.Model.csproj", "{89E6D0F8-997C-4804-9A8B-F95E0574BAA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigiturkArticleProject.Data.Service", "DigiturkArticleProject.Data.Service\DigiturkArticleProject.Data.Service.csproj", "{AD269AE1-0D68-4D19-A3F2-BA3DADCF7536}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigiturkArticleProject.Core", "DigiturkArticleProject.Core\DigiturkArticleProject.Core.csproj", "{E0C3DD9B-8536-48B8-B146-374A5A3D35DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2BF6474-44AB-4647-B1ED-451624363557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2BF6474-44AB-4647-B1ED-451624363557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2BF6474-44AB-4647-B1ED-451624363557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2BF6474-44AB-4647-B1ED-451624363557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B8B947E-B6BA-40FF-8855-3E1CEA87E72F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B8B947E-B6BA-40FF-8855-3E1CEA87E72F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B8B947E-B6BA-40FF-8855-3E1CEA87E72F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B8B947E-B6BA-40FF-8855-3E1CEA87E72F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89E6D0F8-997C-4804-9A8B-F95E0574BAA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E6D0F8-997C-4804-9A8B-F95E0574BAA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89E6D0F8-997C-4804-9A8B-F95E0574BAA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89E6D0F8-997C-4804-9A8B-F95E0574BAA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD269AE1-0D68-4D19-A3F2-BA3DADCF7536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD269AE1-0D68-4D19-A3F2-BA3DADCF7536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD269AE1-0D68-4D19-A3F2-BA3DADCF7536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD269AE1-0D68-4D19-A3F2-BA3DADCF7536}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0C3DD9B-8536-48B8-B146-374A5A3D35DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0C3DD9B-8536-48B8-B146-374A5A3D35DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0C3DD9B-8536-48B8-B146-374A5A3D35DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0C3DD9B-8536-48B8-B146-374A5A3D35DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5A2800B-4875-4725-AA59-7B6BBDDB1376}
+	EndGlobalSection
+EndGlobal
