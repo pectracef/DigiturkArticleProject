@@ -38,7 +38,7 @@ namespace DigiturkSystemActionProject.API.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error occurred on SystemActions getting");
-                return new Result<List<SystemAction>>(false, "Error occurred on SystemActions getting");
+                throw ex;
             }
         }
 
@@ -54,7 +54,7 @@ namespace DigiturkSystemActionProject.API.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error occurred on SystemAction getting");
-                return new Result<SystemAction>(false, "Error occurred on SystemAction getting");
+                throw ex;
             }
         }
 
@@ -70,7 +70,7 @@ namespace DigiturkSystemActionProject.API.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error occurred on SystemAction adding");
-                return new Result<SystemAction>(false, "Error occurred on SystemAction adding");
+                throw ex;
             }
         }
 
@@ -86,7 +86,7 @@ namespace DigiturkSystemActionProject.API.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error occurred on SystemAction updating");
-                return new Result<SystemAction>(false, "Error occurred on SystemAction updating");
+                throw ex;
             }
         }
 
@@ -102,7 +102,7 @@ namespace DigiturkSystemActionProject.API.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error occurred on SystemAction deleting");
-                return new Result<SystemAction>(false, "Error occurred on SystemAction deleting");
+                throw ex;
             }
         }
     }

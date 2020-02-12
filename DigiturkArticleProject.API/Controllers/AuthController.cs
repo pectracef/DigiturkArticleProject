@@ -24,6 +24,7 @@ namespace DigiturkArticleProject.API.Controllers
         }
 
         [HttpPost("login")]
+        [ResponseCache(Duration = 30)]
         public ActionResult<Result<LoginResponse>> Login([FromBody]LoginRequest request)
         {
             if (!string.IsNullOrEmpty(request.username) && !string.IsNullOrEmpty(request.password))
@@ -52,6 +53,7 @@ namespace DigiturkArticleProject.API.Controllers
         }
 
         [HttpPost("register")]
+        [ResponseCache(Duration = 30)]
         public ActionResult<Result<object>> Register([FromBody]RegisterRequest request)
         {
             if(request.password == request.rePassword)

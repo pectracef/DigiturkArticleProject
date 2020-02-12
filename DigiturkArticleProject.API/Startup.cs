@@ -29,6 +29,7 @@ namespace DigiturkArticleProject.API
         {
             services.AddRepositoryService();
             services.AddControllers();
+            services.AddMemoryCache();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -45,6 +46,7 @@ namespace DigiturkArticleProject.API
             app.UseAuthorization();
 
             app.UseMiddleware<AuthorizationMiddleware>();
+            //app.UseMiddleware<CacheMiddleware>();
 
             app.UseEndpoints(endpoints =>
             {

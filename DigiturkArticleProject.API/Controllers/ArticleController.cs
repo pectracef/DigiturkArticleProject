@@ -9,6 +9,7 @@ using DigiturkArticleProject.Data.Service.ConcreateServices;
 using DigiturkArticleProject.Data.Service.Repositories;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Caching.Memory;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
@@ -20,11 +21,13 @@ namespace DigiturkArticleProject.API.Controllers
     {
         private readonly ArticleService _articleService;
         private readonly ILogger _logger;
+        private readonly IMemoryCache _memoryCache;
 
-        public ArticleController(ILogger<ArticleController> logger, IRepository<Article> articleRepository)
+        public ArticleController(ILogger<ArticleController> logger, IMemoryCache memoryCache, IRepository<Article> articleRepository)
         {
             _articleService = (ArticleService)articleRepository;
             _logger = logger;
+            _memoryCache = memoryCache;
         }
 
         [HttpGet]
@@ -32,14 +35,24 @@ namespace DigiturkArticleProject.API.Controllers
         {
             try
             {
-                List<Article> articles = _articleService.Get();
+                List<Article> articles = new List<Article>();
+                const string key = "articleAll";
+                if (_memoryCache.TryGetValue(key, out articles))
+                    return new Result<List<Article>>(true, "", articles);
+
+                articles = _articleService.Get();
+                _memoryCache.Set(key, articles, new MemoryCacheEntryOptions
+                {
+                    AbsoluteExpiration = DateTime.Now.AddMinutes(1),
+                    Priority = CacheItemPriority.Normal
+                });
                 _logger.LogInformation("Get all Articles");
                 return new Result<List<Article>>(true, "", articles);
             }
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error occurred on Articles getting");
-                return StatusCode(500, new Result<List<Article>>(false, "Error occurred on Articles getting"));
+                throw ex;
             }
         }
 
@@ -48,14 +61,24 @@ namespace DigiturkArticleProject.API.Controllers
         {
             try
             {
-                Article article = _articleService.GetById(id);
+                Article article = new Article();
+                const string key = "articleSingle";
+                if (_memoryCache.TryGetValue(key, out article))
+                    return new Result<Article>(true, "", article);
+
+                article = _articleService.GetById(id);
+                _memoryCache.Set(key, article, new MemoryCacheEntryOptions
+                {
+                    AbsoluteExpiration = DateTime.Now.AddMinutes(1),
+                    Priority = CacheItemPriority.Normal
+                });
                 _logger.LogInformation("Get one Article");
                 return new Result<Article>(true, "", article);
             }
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error occurred on Article getting");
-                return StatusCode(500, new Result<Article>(false, "Error occurred on Article getting"));
+                throw ex;
             }
         }
 
@@ -72,7 +95,7 @@ namespace DigiturkArticleProject.API.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error occurred on Article adding");
-                return StatusCode(500, new Result<Article>(false, "Error occurred on Article adding"));
+                throw ex;
             }
         }
 
@@ -81,15 +104,26 @@ namespace DigiturkArticleProject.API.Controllers
         {
             try
             {
-                model.updatedUserId = Current.user.id;
-                _articleService.Update(model, id);
-                _logger.LogInformation("Updated one Article");
-                return new Result<Article>(true, "Article updated successfully");
+                Article data = _articleService.GetById(id);
+                if (data.createdUserId == Current.user.id || Current.user.roleId == 1)
+                {
+                    data.updatedUserId = Current.user.id;
+                    data.title = model.title;
+                    data.subTitle = model.subTitle;
+                    data.content = model.content;
+                    _articleService.Update(data, id);
+                    _logger.LogInformation("Updated one Article");
+                    return new Result<Article>(true, "Article updated successfully");
+                }
+                else
+                {
+                    return StatusCode(403, new Result<Article>(false, "You are not authorized."));
+                }
             }
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error occurred on Article updating");
-                return StatusCode(500, new Result<Article>(false, "Error occurred on Article updating"));
+                throw ex;
             }
         }
 
@@ -98,14 +132,35 @@ namespace DigiturkArticleProject.API.Controllers
         {
             try
             {
-                _articleService.Remove(id);
-                _logger.LogInformation("Deleted one Article");
-                return new Result<Article>(true, "Article deleted successfully");
+                Article data = _articleService.GetById(id);
+                if (data.createdUserId == Current.user.id || Current.user.roleId == 1)
+                {
+                    _articleService.Remove(id);
+                    _logger.LogInformation("Deleted one Article");
+                    return new Result<Article>(true, "Article deleted successfully");
+                }
+                else
+                {
+                    return StatusCode(403, new Result<Article>(false, "You are not authorized."));
+                }
             }
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error occurred on Article deleting");
-                return StatusCode(500, new Result<Article>(false, "Error occurred on Article deleting"));
+                throw ex;
+            }
+        }
+
+        [HttpGet("search/{query}")]
+        public ActionResult<Result<List<Article>>> Search(string query)
+        {
+            try
+            {
+                return _articleService.Search(query);
+            }
+            catch (Exception ex)
+            {
+                throw ex;
             }
         }
     }

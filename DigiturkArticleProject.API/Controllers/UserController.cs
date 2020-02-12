@@ -38,7 +38,7 @@ namespace DigiturkUserProject.API.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error occurred on Users getting");
-                return new Result<List<User>>(false, "Error occurred on Users getting");
+                throw ex;
             }
         }
 
@@ -54,7 +54,7 @@ namespace DigiturkUserProject.API.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error occurred on User getting");
-                return new Result<User>(false, "Error occurred on User getting");
+                throw ex;
             }
         }
 
@@ -70,7 +70,7 @@ namespace DigiturkUserProject.API.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error occurred on User adding");
-                return new Result<User>(false, "Error occurred on User adding");
+                throw ex;
             }
         }
 
@@ -86,7 +86,7 @@ namespace DigiturkUserProject.API.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error occurred on User updating");
-                return new Result<User>(false, "Error occurred on User updating");
+                throw ex;
             }
         }
 
@@ -102,7 +102,7 @@ namespace DigiturkUserProject.API.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error occurred on User deleting");
-                return new Result<User>(false, "Error occurred on User deleting");
+                throw ex;
             }
         }
     }

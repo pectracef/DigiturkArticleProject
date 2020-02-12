@@ -421,3 +421,54 @@ Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting env
 Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API 
 Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Deleted one Article 
 Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Error occurred on Comment deleting 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API 
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Error occurred on Article updating 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down. 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get one Article 
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Error occurred on Article getting 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get one Article 
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Error occurred on Article getting 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get one Article 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Updated one Article 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Added one Comment 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get one Article 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Updated one Comment 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Updated one Comment 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down. 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Added one Article 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Added one Article 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development 
+o shut down. 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down. 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Added one Article 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Added one Article 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Added one Article 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Added one Article 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down. 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API 
