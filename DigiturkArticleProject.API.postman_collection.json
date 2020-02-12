@@ -1,0 +1,427 @@
+{
+	"info": {
+		"_postman_id": "cb4e900f-e25e-4c24-913f-b0a7c6e3fdd5",
+		"name": "DigiturkArticleProject.API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Auth",
+			"item": [
+				{
+					"name": "Login",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"username\":\"pectracef\",\n\t\"password\":\"123456\",\n\t\"isRemember\": true\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:50695/api/auth/login",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "50695",
+							"path": [
+								"api",
+								"auth",
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Register",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"username\":\"pectracef\",\n\t\"password\":\"123456\",\n\t\"rePassword\":\"123456\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:50695/api/auth/register",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "50695",
+							"path": [
+								"api",
+								"auth",
+								"register"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "Article",
+			"item": [
+				{
+					"name": "GET",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "token",
+								"value": "Ybm7q6CgL9UMprQQ6inWJ9wunpxhgMXlt9q2bc6gcpXuKX4mXxIfUHItmsvI1mMqrk8Dk17hxGwyQBKkkBu7IQFVJ0PMKKN0WrL+0FQey+P3bB69VJnDhUIyWRg3Z+sG",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "http://localhost:50695/api/article",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "50695",
+							"path": [
+								"api",
+								"article"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "token",
+								"value": "Ybm7q6CgL9UMprQQ6inWJ9wunpxhgMXlt9q2bc6gcpXuKX4mXxIfUHItmsvI1mMqrk8Dk17hxGwyQBKkkBu7IQFVJ0PMKKN0WrL+0FQey+P3bB69VJnDhUIyWRg3Z+sG",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "http://localhost:50695/api/article/4",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "50695",
+							"path": [
+								"api",
+								"article",
+								"4"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "token",
+								"value": "Ybm7q6CgL9UMprQQ6inWJ9wunpxhgMXlt9q2bc6gcpXuKX4mXxIfUHItmsvI1mMqrk8Dk17hxGwyQBKkkBu7IQFVJ0PMKKN0WrL+0FQey+P3bB69VJnDhUIyWRg3Z+sG",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"title\":\"İpsum Dolor\",\n\t\"subTitle\":\"lorem.\",\n\t\"content\": \"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed libero elit, lobortis sit amet ex rhoncus, tempor iaculis enim. Aenean rutrum, tellus non pretium pretium, dui tellus lobortis enim, bibendum accumsan elit eros vitae dui. Donec convallis felis sit amet risus faucibus tempor. Maecenas interdum mollis turpis, id dictum justo. Aenean enim sapien, imperdiet eget risus ac, iaculis luctus augue. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque at metus at justo rhoncus scelerisque. Sed facilisis tellus a tristique pulvinar. Proin vel diam ex\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:50695/api/article",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "50695",
+							"path": [
+								"api",
+								"article"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PATCH",
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "token",
+								"value": "Ybm7q6CgL9UMprQQ6inWJ9wunpxhgMXlt9q2bc6gcpXuKX4mXxIfUHItmsvI1mMqrk8Dk17hxGwyQBKkkBu7IQFVJ0PMKKN0WrL+0FQey+P3bB69VJnDhUIyWRg3Z+sG",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"title\":\"ASP.NET Core 3.0 Yenilikler\",\n\t\"subTitle\":\"Bugünkü yazımızda ASP.NET Core 3.0'daki değişiklikleri inceleyeceğiz. değişti\",\n\t\"content\": \"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed libero elit, lobortis sit amet ex rhoncus, tempor iaculis enim. Aenean rutrum, tellus non pretium pretium, dui tellus lobortis enim, bibendum accumsan elit eros vitae dui. Donec convallis felis sit amet risus faucibus tempor. Maecenas interdum mollis turpis, id dictum justo.\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:50695/api/article/4",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "50695",
+							"path": [
+								"api",
+								"article",
+								"4"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DELETE",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "token",
+								"value": "Ybm7q6CgL9UMprQQ6inWJ9wunpxhgMXlt9q2bc6gcpXuKX4mXxIfUHItmsvI1mMqrk8Dk17hxGwyQBKkkBu7IQFVJ0PMKKN0WrL+0FQey+P3bB69VJnDhUIyWRg3Z+sG",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "http://localhost:50695/api/article/4",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "50695",
+							"path": [
+								"api",
+								"article",
+								"4"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Search",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": ""
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "Comment",
+			"item": [
+				{
+					"name": "GET",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "token",
+								"value": "Ybm7q6CgL9UMprQQ6inWJ9wunpxhgMXlt9q2bc6gcpXuKX4mXxIfUHItmsvI1mMqrk8Dk17hxGwyQBKkkBu7IQFVJ0PMKKN0WrL+0FQey+P3bB69VJnDhUIyWRg3Z+sG",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "http://localhost:50695/api/comment",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "50695",
+							"path": [
+								"api",
+								"comment"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "token",
+								"value": "Ybm7q6CgL9UMprQQ6inWJ9wunpxhgMXlt9q2bc6gcpXuKX4mXxIfUHItmsvI1mMqrk8Dk17hxGwyQBKkkBu7IQFVJ0PMKKN0WrL+0FQey+P3bB69VJnDhUIyWRg3Z+sG",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "http://localhost:50695/api/comment/1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "50695",
+							"path": [
+								"api",
+								"comment",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "token",
+								"value": "Ybm7q6CgL9UMprQQ6inWJ9wunpxhgMXlt9q2bc6gcpXuKX4mXxIfUHItmsvI1mMqrk8Dk17hxGwyQBKkkBu7IQFVJ0PMKKN0WrL+0FQey+P3bB69VJnDhUIyWRg3Z+sG",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"articleId\":4,\n\t\"content\": \"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed libero elit, lobortis sit amet ex rhoncus, tempor iaculis enim.\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:50695/api/comment",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "50695",
+							"path": [
+								"api",
+								"comment"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PATCH",
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "token",
+								"value": "Ybm7q6CgL9UMprQQ6inWJ9wunpxhgMXlt9q2bc6gcpXuKX4mXxIfUHItmsvI1mMqrk8Dk17hxGwyQBKkkBu7IQFVJ0PMKKN0WrL+0FQey+P3bB69VJnDhUIyWRg3Z+sG",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"content\": \"Lorem ipsum dolor sit amet, consectetur adipiscin elit.\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:50695/api/comment/1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "50695",
+							"path": [
+								"api",
+								"comment",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DELETE",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "token",
+								"value": "Ybm7q6CgL9UMprQQ6inWJ9wunpxhgMXlt9q2bc6gcpXuKX4mXxIfUHItmsvI1mMqrk8Dk17hxGwyQBKkkBu7IQFVJ0PMKKN0WrL+0FQey+P3bB69VJnDhUIyWRg3Z+sG",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "http://localhost:50695/api/comment/4",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "50695",
+							"path": [
+								"api",
+								"comment",
+								"4"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		}
+	],
+	"protocolProfileBehavior": {}
+}
