@@ -28,6 +28,7 @@ namespace DigiturkCommentProject.API.Controllers
         }
 
         [HttpGet]
+        [ResponseCache(Duration = 3600)]
         public ActionResult<Result<List<Comment>>> Get()
         {
             try
@@ -39,11 +40,12 @@ namespace DigiturkCommentProject.API.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error occurred on Comments getting");
-                return StatusCode(500, new Result<List<Comment>>(false, "Error occurred on Comments getting"));
+                throw ex;
             }
         }
 
         [HttpGet("{id}")]
+        [ResponseCache(Duration = 3600)]
         public ActionResult<Result<Comment>> Get(long id)
         {
             try
@@ -55,7 +57,7 @@ namespace DigiturkCommentProject.API.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error occurred on Comment getting");
-                return StatusCode(500, new Result<Comment>(false, "Error occurred on Comment getting"));
+                throw ex;
             }
         }
 
@@ -72,7 +74,7 @@ namespace DigiturkCommentProject.API.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error occurred on Comment adding");
-                return StatusCode(500, new Result<Comment>(false, "Error occurred on Comment adding"));
+                throw ex;
             }
         }
 
@@ -81,14 +83,24 @@ namespace DigiturkCommentProject.API.Controllers
         {
             try
             {
-                _commentService.Update(model, id);
-                _logger.LogInformation("Updated one Comment");
-                return new Result<Comment>(true, "Comment updated successfully");
+                Comment data = _commentService.GetById(id);
+                if (data.createdUserId == Current.user.id || Current.user.roleId == 1)
+                {
+                    data.content = model.content;
+                    _commentService.Update(data, id);
+                    _logger.LogInformation("Updated one Comment");
+                    return new Result<Comment>(true, "Comment updated successfully");
+                }
+                else
+                {
+                    return StatusCode(403, new Result<Article>(false, "You are not authorized."));
+                }
+                
             }
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error occurred on Comment updating");
-                return StatusCode(500, new Result<Comment>(false, "Error occurred on Comment updating"));
+                throw ex;
             }
         }
 
@@ -97,14 +109,22 @@ namespace DigiturkCommentProject.API.Controllers
         {
             try
             {
-                _commentService.Remove(id);
-                _logger.LogInformation("Deleted one Comment");
-                return new Result<Comment>(true, "Comment deleted successfully");
+                Comment data = _commentService.GetById(id);
+                if (data.createdUserId == Current.user.id || Current.user.roleId == 1)
+                {
+                    _commentService.Remove(id);
+                    _logger.LogInformation("Deleted one Comment");
+                    return new Result<Comment>(true, "Comment deleted successfully");
+                }
+                else
+                {
+                    return StatusCode(403, new Result<Article>(false, "You are not authorized."));
+                }
             }
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error occurred on Comment deleting");
-                return StatusCode(500, new Result<Comment>(false, "Error occurred on Comment deleting"));
+                throw ex;
             }
         }
     }

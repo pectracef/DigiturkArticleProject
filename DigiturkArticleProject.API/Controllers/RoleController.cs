@@ -38,7 +38,7 @@ namespace DigiturkRoleProject.API.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error occurred on Roles getting");
-                return StatusCode(500, new Result<List<Role>>(false, "Error occurred on Roles getting"));
+                throw ex;
             }
         }
 
@@ -54,7 +54,7 @@ namespace DigiturkRoleProject.API.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error occurred on Role getting");
-                return StatusCode(500, new Result<Role>(false, "Error occurred on Role getting"));
+                throw ex;
             }
         }
 
@@ -70,7 +70,7 @@ namespace DigiturkRoleProject.API.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error occurred on Role adding");
-                return StatusCode(500, new Result<Role>(false, "Error occurred on Role adding"));
+                throw ex;
             }
         }
 
@@ -86,7 +86,7 @@ namespace DigiturkRoleProject.API.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error occurred on Role updating");
-                return StatusCode(500, new Result<Role>(false, "Error occurred on Role updating"));
+                throw ex;
             }
         }
 
@@ -102,7 +102,7 @@ namespace DigiturkRoleProject.API.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error occurred on Role deleting");
-                return StatusCode(500, new Result<Role>(false, "Error occurred on Role deleting"));
+                throw ex;
             }
         }
     }

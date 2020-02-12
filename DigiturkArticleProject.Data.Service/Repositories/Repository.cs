@@ -119,10 +119,10 @@ namespace DigiturkArticleProject.Data.Service.Repositories
             var props = typeof(A).GetProperties();
             var baseProps = typeof(Table).GetProperties();
             foreach (var prop in props)
-                if (!baseProps.Any(c => c.Name.Equals(prop.Name)) && prop.Name != "createdUserId")
+                if (!baseProps.Any(c => c.Name.Equals(prop.Name)))
                     prop.SetValue(data, prop.GetValue(model) ?? prop.GetValue(data));
 
-            data.updatedAt = DateTime.Now;
+            model.updatedAt = DateTime.Now;
             Save();
             return true;
         }

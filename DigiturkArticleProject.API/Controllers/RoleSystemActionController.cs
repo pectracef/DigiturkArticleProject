@@ -38,7 +38,7 @@ namespace DigiturkRoleSystemActionProject.API.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error occurred on RoleSystemActions getting");
-                return StatusCode(500, new Result<List<RoleSystemAction>>(false, "Error occurred on RoleSystemActions getting"));
+                throw ex;
             }
         }
 
@@ -54,7 +54,7 @@ namespace DigiturkRoleSystemActionProject.API.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error occurred on RoleSystemAction getting");
-                return StatusCode(500, new Result<RoleSystemAction>(false, "Error occurred on RoleSystemAction getting"));
+                throw ex;
             }
         }
 
@@ -70,7 +70,7 @@ namespace DigiturkRoleSystemActionProject.API.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error occurred on RoleSystemAction adding");
-                return StatusCode(500, new Result<RoleSystemAction>(false, "Error occurred on RoleSystemAction adding"));
+                throw ex;
             }
         }
 
@@ -86,7 +86,7 @@ namespace DigiturkRoleSystemActionProject.API.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error occurred on RoleSystemAction updating");
-                return StatusCode(500, new Result<RoleSystemAction>(false, "Error occurred on RoleSystemAction updating"));
+                throw ex;
             }
         }
 
@@ -102,7 +102,7 @@ namespace DigiturkRoleSystemActionProject.API.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error occurred on RoleSystemAction deleting");
-                return StatusCode(500, new Result<RoleSystemAction>(false, "Error occurred on RoleSystemAction deleting"));
+                throw ex;
             }
         }
     }
