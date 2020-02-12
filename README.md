@@ -1,7 +1,15 @@
 # DigiturkArticleProject
 
+## Bağımlılıklar
+* .net Core 3.1
+## Kurulum
+* Projeyi indirip **Visual Studio** içinde açın (*Ben Visual Studio 2019 kullandım*).
+* **DigiturkArticleProject.API** projesi içinde appsettings.json içinden connection stringinizi kendinize göre değiştirebilirsiniz. Varsayılan olarak localhost ve windows authentication olarak ayarlı.
+* **Package Manager Console** konsolunu açın varsayılan proje olarak **DigiturkArticleProject.Data.Context** projesini seçin veya projeye sağ tıklayıp *Set as StartUp Project* seçeneğine tıklayın. 
+* Konsolu açtıktan sonra, *update-database* komutunu çalıştırın.
+* Proje dosyaları içinde **installition.sql** dosyasını, SSMS içinde açarak veritabanınızın oluşturulduğu sunucu içinde bu kodları çalıştırın.
+* Visual Studio ya geri dönüp projeyi başlatabilirsiniz.
 ## Sorular
-
 * ### Projede kullanıdığınız tasarım desenleri hangileridir? Bu desenleri neden kullandınız?
   * Repository
   * Dependency Injection
