@@ -472,3 +472,7 @@ Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Added one A
 Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles 
 Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down. 
 Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down. 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Added one Article 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles 
