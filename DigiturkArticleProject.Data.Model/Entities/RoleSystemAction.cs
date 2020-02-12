@@ -5,8 +5,8 @@ namespace DigiturkArticleProject.Data.Model.Entities
 {
     public class RoleSystemAction : Table
     {
-        public ulong roleId { get; set; }
-        public ulong systemActionId { get; set; }
+        public long roleId { get; set; }
+        public long systemActionId { get; set; }
 
         [ForeignKey(nameof(roleId))]
         public virtual Role role { get; set; }

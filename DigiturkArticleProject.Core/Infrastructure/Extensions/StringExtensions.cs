@@ -18,6 +18,23 @@ namespace DigiturkArticleProject.Core.Infrastructure.Extensions
         {
             return Enigma.ComputeMD5(rawData);
         }
+
+        public static string ToRijndael(this string plainText)
+        {
+            return Enigma.Encrypt(plainText);
+        }
+
+        public static string FromRijndael(this string cipherText)
+        {
+            return Enigma.Decrypt(cipherText);
+        }
+
+        public static Model FromRijndael<Model>(this string cipherText) where Model : class
+        {
+            return Enigma.Decrypt(cipherText).FromJson<Model>();
+        }
+
+
         private static JsonSerializerSettings set = new JsonSerializerSettings()
         {
             ReferenceLoopHandling = ReferenceLoopHandling.Ignore,

@@ -5,10 +5,10 @@ namespace DigiturkArticleProject.Data.Model.Entities
 {
     public class Comment : Table
     {
-        public ulong? parentCommentId { get; set; }
-        public ulong articleId { get; set; }
+        public long? parentCommentId { get; set; }
+        public long articleId { get; set; }
         public string content { get; set; }
-        public ulong createdUserId { get; set; }
+        public long? createdUserId { get; set; }
 
         [ForeignKey(nameof(parentCommentId))]
         public virtual Comment parentComment { get; set; }

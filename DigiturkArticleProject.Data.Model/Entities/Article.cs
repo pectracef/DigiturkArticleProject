@@ -9,8 +9,8 @@ namespace DigiturkArticleProject.Data.Model.Entities
         public string title { get; set; }
         public string subTitle { get; set; }
         public string content { get; set; }
-        public ulong createdUserId { get; set; }
-        public ulong updatedUserId { get; set; }
+        public long createdUserId { get; set; }
+        public long? updatedUserId { get; set; }
 
         [ForeignKey(nameof(createdUserId))]
         public virtual User createdUser { get; set; }

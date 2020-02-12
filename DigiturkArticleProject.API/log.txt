@@ -1,0 +1,423 @@
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Error occurred on Articles getting
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Error occurred on Articles getting
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Error occurred on Articles getting
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Error occurred on Articles getting
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get one Article
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Error occurred on Article getting
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get one Article
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Error occurred on Article getting
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get one Article
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Error occurred on Article getting
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get one Article
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Error occurred on Article getting
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get one Article
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Error occurred on Article getting
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get one Article
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Error occurred on Article getting
+Log Level : Error | Event ID : 1 | Event Name : UnhandledException | Formatter : An unhandled exception has occurred while executing the request.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get one Article
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Error occurred on Article getting
+Log Level : Error | Event ID : 1 | Event Name : UnhandledException | Formatter : An unhandled exception has occurred while executing the request.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get one Article
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Error occurred on Article getting
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Error | Event ID : 1 | Event Name : UnhandledException | Formatter : An unhandled exception has occurred while executing the request.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Error | Event ID : 1 | Event Name : UnhandledException | Formatter : An unhandled exception has occurred while executing the request.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Error | Event ID : 1 | Event Name : UnhandledException | Formatter : An unhandled exception has occurred while executing the request.
+Log Level : Error | Event ID : 1 | Event Name : UnhandledException | Formatter : An unhandled exception has occurred while executing the request.
+Log Level : Error | Event ID : 1 | Event Name : UnhandledException | Formatter : An unhandled exception has occurred while executing the request.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Error | Event ID : 1 | Event Name : UnhandledException | Formatter : An unhandled exception has occurred while executing the request.
+Log Level : Error | Event ID : 1 | Event Name : UnhandledException | Formatter : An unhandled exception has occurred while executing the request.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Error | Event ID : 1 | Event Name : UnhandledException | Formatter : An unhandled exception has occurred while executing the request.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Error | Event ID : 1 | Event Name : UnhandledException | Formatter : An unhandled exception has occurred while executing the request.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Error | Event ID : 1 | Event Name : UnhandledException | Formatter : An unhandled exception has occurred while executing the request.
+Log Level : Error | Event ID : 1 | Event Name : UnhandledException | Formatter : An unhandled exception has occurred while executing the request.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles
+Log Level : Error | Event ID : 1 | Event Name : UnhandledException | Formatter : An unhandled exception has occurred while executing the request.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Added one Article
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Added one Comment
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get one Article
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Comments
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get one Comment
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get all Articles
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Error | Event ID : 20102 | Event Name : Microsoft.EntityFrameworkCore.Database.Command.CommandError | Formatter : Failed executing DbCommand (138ms) [Parameters=[@p5='?' (DbType = Int64), @p0='?' (Size = 4000), @p1='?' (DbType = Int64), @p2='?' (Size = 4000), @p3='?' (DbType = DateTime2), @p4='?' (DbType = Int64)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [Article] SET [content] = @p0, [createdUserId] = @p1, [subTitle] = @p2, [updatedAt] = @p3, [updatedUserId] = @p4
+WHERE [id] = @p5;
+SELECT @@ROWCOUNT;
+Log Level : Error | Event ID : 10000 | Event Name : Microsoft.EntityFrameworkCore.Update.SaveChangesFailed | Formatter : An exception occurred in the database while saving changes for context type 'DigiturkArticleProject.Data.Context.Contexts.DigiturkArticleProjectContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_Article_User_createdUserId". The conflict occurred in database "DigiturkArticleProject", table "dbo.User", column 'id'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:3711c464-a56f-46f8-be99-93d96f84f052
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Error occurred on Article updating
+Log Level : Error | Event ID : 20102 | Event Name : Microsoft.EntityFrameworkCore.Database.Command.CommandError | Formatter : Failed executing DbCommand (134ms) [Parameters=[@p5='?' (DbType = Int64), @p0='?' (Size = 4000), @p1='?' (DbType = Int64), @p2='?' (Size = 4000), @p3='?' (DbType = DateTime2), @p4='?' (DbType = Int64)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [Article] SET [content] = @p0, [createdUserId] = @p1, [subTitle] = @p2, [updatedAt] = @p3, [updatedUserId] = @p4
+WHERE [id] = @p5;
+SELECT @@ROWCOUNT;
+Log Level : Error | Event ID : 10000 | Event Name : Microsoft.EntityFrameworkCore.Update.SaveChangesFailed | Formatter : An exception occurred in the database while saving changes for context type 'DigiturkArticleProject.Data.Context.Contexts.DigiturkArticleProjectContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_Article_User_createdUserId". The conflict occurred in database "DigiturkArticleProject", table "dbo.User", column 'id'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:3711c464-a56f-46f8-be99-93d96f84f052
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Error occurred on Article updating
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Error | Event ID : 20102 | Event Name : Microsoft.EntityFrameworkCore.Database.Command.CommandError | Formatter : Failed executing DbCommand (137ms) [Parameters=[@p8='?' (DbType = Int64), @p0='?' (Size = 4000), @p1='?' (DbType = DateTime2), @p2='?' (DbType = Int64), @p3='?' (DbType = Boolean), @p4='?' (Size = 4000), @p5='?' (Size = 4000), @p6='?' (DbType = DateTime2), @p7='?' (DbType = Int64)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [Article] SET [content] = @p0, [createdAt] = @p1, [createdUserId] = @p2, [isDeleted] = @p3, [subTitle] = @p4, [title] = @p5, [updatedAt] = @p6, [updatedUserId] = @p7
+WHERE [id] = @p8;
+SELECT @@ROWCOUNT;
+Log Level : Error | Event ID : 10000 | Event Name : Microsoft.EntityFrameworkCore.Update.SaveChangesFailed | Formatter : An exception occurred in the database while saving changes for context type 'DigiturkArticleProject.Data.Context.Contexts.DigiturkArticleProjectContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_Article_User_createdUserId". The conflict occurred in database "DigiturkArticleProject", table "dbo.User", column 'id'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:928ec4c9-eb2e-432f-88ad-4e796f8cc38d
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Error occurred on Article updating
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Updated one Article
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get one Article
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get one Article
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get one Article
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get one Article
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get one Article
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get one Article
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Added one Article
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get one Article
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Updated one Article
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get one Article
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get one Article
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Updated one Article
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Added one Article
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get one Article
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Added one Article
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get one Article
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Error occurred on Article getting
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get one Article
+Log Level : Error | Event ID : 20102 | Event Name : Microsoft.EntityFrameworkCore.Database.Command.CommandError | Formatter : Failed executing DbCommand (143ms) [Parameters=[@p6='?' (DbType = Int64), @p0='?' (Size = 4000), @p1='?' (DbType = Int64), @p2='?' (Size = 4000), @p3='?' (Size = 4000), @p4='?' (DbType = DateTime2), @p5='?' (DbType = Int64)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [Article] SET [content] = @p0, [createdUserId] = @p1, [subTitle] = @p2, [title] = @p3, [updatedAt] = @p4, [updatedUserId] = @p5
+WHERE [id] = @p6;
+SELECT @@ROWCOUNT;
+Log Level : Error | Event ID : 10000 | Event Name : Microsoft.EntityFrameworkCore.Update.SaveChangesFailed | Formatter : An exception occurred in the database while saving changes for context type 'DigiturkArticleProject.Data.Context.Contexts.DigiturkArticleProjectContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_Article_User_createdUserId". The conflict occurred in database "DigiturkArticleProject", table "dbo.User", column 'id'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:42217870-4dca-4db3-aaf6-a90c223fb8e2
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down. 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API 
+Log Level : Error | Event ID : 20102 | Event Name : Microsoft.EntityFrameworkCore.Database.Command.CommandError | Formatter : Failed executing DbCommand (104ms) [Parameters=[@p6='?' (DbType = Int64), @p0='?' (Size = 4000), @p1='?' (DbType = Int64), @p2='?' (Size = 4000), @p3='?' (Size = 4000), @p4='?' (DbType = DateTime2), @p5='?' (DbType = Int64)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [Article] SET [content] = @p0, [createdUserId] = @p1, [subTitle] = @p2, [title] = @p3, [updatedAt] = @p4, [updatedUserId] = @p5
+WHERE [id] = @p6;
+SELECT @@ROWCOUNT; 
+Log Level : Error | Event ID : 10000 | Event Name : Microsoft.EntityFrameworkCore.Update.SaveChangesFailed | Formatter : An exception occurred in the database while saving changes for context type 'DigiturkArticleProject.Data.Context.Contexts.DigiturkArticleProjectContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_Article_User_createdUserId". The conflict occurred in database "DigiturkArticleProject", table "dbo.User", column 'id'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:c169c75a-6814-43ea-a158-94ad588ebc4f
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess) 
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Error occurred on Article updating 
+Log Level : Error | Event ID : 20102 | Event Name : Microsoft.EntityFrameworkCore.Database.Command.CommandError | Formatter : Failed executing DbCommand (7ms) [Parameters=[@p6='?' (DbType = Int64), @p0='?' (Size = 4000), @p1='?' (DbType = Int64), @p2='?' (Size = 4000), @p3='?' (Size = 4000), @p4='?' (DbType = DateTime2), @p5='?' (DbType = Int64)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [Article] SET [content] = @p0, [createdUserId] = @p1, [subTitle] = @p2, [title] = @p3, [updatedAt] = @p4, [updatedUserId] = @p5
+WHERE [id] = @p6;
+SELECT @@ROWCOUNT; 
+Log Level : Error | Event ID : 10000 | Event Name : Microsoft.EntityFrameworkCore.Update.SaveChangesFailed | Formatter : An exception occurred in the database while saving changes for context type 'DigiturkArticleProject.Data.Context.Contexts.DigiturkArticleProjectContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_Article_User_createdUserId". The conflict occurred in database "DigiturkArticleProject", table "dbo.User", column 'id'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:c169c75a-6814-43ea-a158-94ad588ebc4f
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess) 
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Error occurred on Article updating 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down. 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development 
+ubRepos\DigiturkArticleProject\DigiturkArticleProject.API 
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Error occurred on Article updating 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get one Article 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API 
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Error occurred on Article updating 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down. 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C tLog Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Updated one Article 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get one Article 
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Error occurred on Article deleting 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down. 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Projects\GithubRepos\DigiturkArticleProject\DigiturkArticleProject.API 
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Deleted one Article 
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Error occurred on Comment deleting 
